@@ -26,7 +26,7 @@ TaskPulse is a dynamic Kanban board application built with Next.js, React, and F
 
 ## Project Structure
 
-
+<src = "./images/board.png">
 
 
 
