@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
 
 ## Getting Started
 # TaskPulse - Kanban Board Project
@@ -25,4 +25,10 @@ TaskPulse is a dynamic Kanban board application built with Next.js, React, and F
 - **Type Safety**: TypeScript
 
 ## Project Structure
+
+![TaskPulse Logo](./public/board.png)
+
+
+
+
 
