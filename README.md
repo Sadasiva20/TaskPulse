@@ -31,3 +31,12 @@ TaskPulse is a dynamic Kanban board application built with Next.js, React, and F
 
 
 
+## Running the Application
+
+
+ ##  Live  Demo 
+
+ https://sivasan29.com/TaskPulse
+
+
+
